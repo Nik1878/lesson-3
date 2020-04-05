@@ -1,0 +1,26 @@
+h1{
+	color: red;
+}
+.pr{
+	background-color: blue;
+	max-width: 100px;
+	color:#fff;
+	margin: auto 0px 100px; 
+}
+span{
+	color:red;
+}
+h2{
+	background-color: green;
+	color:#fff;
+}
+.h_2{
+	padding: 40px 20px;
+}
+li{
+	border: 2px solid;
+	font-size: 30px
+}
+.pr2{
+	padding: 0px 0px 0px 90px
+}
